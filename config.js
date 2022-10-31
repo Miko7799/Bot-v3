@@ -45,7 +45,7 @@ global.owner = [
 global.mods = []
 global.prems = []
 global.nomorbot = '6281352848936'
-global.nomorown = '6281251549899'
+global.nomorown = '6285755827288'
 global.nomorown1 = '6281251549899'
 global.nomorown2 = '6281348106274'
 global.nomorwa = '0'
@@ -84,12 +84,12 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0812 5154 9899'
+global.pdana = '0857 5582 7288'
 global.povo = '0813 5284 8936'
 global.pgopay = '0813 5284 8936'
 global.plinkaja = '-' //link aja
 global.ppulsa = '0812 5154 9899'
-global.ppulsa2 = '081348106274'
+global.ppulsa2 = '088221087236'
 global.psaweria = 'https://saweria.co/hyuura'
 
 
